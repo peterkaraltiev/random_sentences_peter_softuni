@@ -1,2 +1,7 @@
-# random_sentences_peter_softuni
+#Picichkata programista
+
+softuni project for fun
+
 generates random sentences
+
+replit link:https://replit.com/@peterkaraltiev/randomsentencesgenerator
