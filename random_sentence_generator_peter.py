@@ -29,4 +29,3 @@ if command == "":
             continue
         else:
             break
-            
