@@ -1,0 +1,2 @@
+# random_sentences_peter_softuni
+generates random sentences
