@@ -1,4 +1,4 @@
-#Picichkata programista
+#Picichkataprogramista
 
 softuni project for fun
 
